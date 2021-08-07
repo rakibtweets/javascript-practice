@@ -2,6 +2,7 @@
 
 function totalPricing() {
 
-    console.log('hellow js')
+    console.log('hellow js');
+    console.log('i am trying to use wsl it pera ditese')
 
 }
