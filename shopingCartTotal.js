@@ -6,6 +6,10 @@ function totalPricing() {
     console.log('i am trying to use wsl it pera ditese')
     console.log('i am trying to use wsl it pera ditese')
     console.log('i am trying to use wsl it pera ditese')
-    
+    console.log('i am trying to use wsl it pera ditese')
+    console.log('i am trying to use wsl it pera ditese')
+    console.log('i am trying to use wsl it pera ditese')
+    console.log('i am trying to use wsl it pera ditese')
+
 
 }
