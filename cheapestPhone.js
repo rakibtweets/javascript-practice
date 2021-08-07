@@ -24,5 +24,6 @@ for ( let i = 0; i < phones.length; i++){  /* or for ( let phone of phones) */
 
     
 }
+console.log(cheaptest);
 
 console.log(cheaptest);
